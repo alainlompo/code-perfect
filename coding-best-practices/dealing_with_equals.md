@@ -4,7 +4,7 @@ When overriding the equals method for a given class, there are obvious cases you
 null case, reference equality case, etc. Depending on your implementation logic there might be more obvious cases than these few
 <br/>
 <p>
-```java
+<pre>
 public class Invoice {
 	// .... some code logic here
 	
@@ -31,7 +31,7 @@ public class Invoice {
 		// .....
 	}
 }
-```
+</pre>
 </p>
 <br/>
 
