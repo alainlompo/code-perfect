@@ -3,7 +3,7 @@
 When overriding the equals method for a given class, there are obvious cases you can get out of the way by considering them first before dealing with the real equality comaprison logic. For example
 null case, reference equality case, etc. Depending on your implementation logic there might be more obvious cases than these few
 
-```Java
+```java
 public class Invoice {
 	// .... some code logic here
 	
