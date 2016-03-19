@@ -5,6 +5,7 @@ null case, reference equality case, etc. Depending on your implementation logic 
 <br/>
 <p>
 <pre>
+```Java
 public class Invoice {
 	// .... some code logic here
 	
@@ -31,6 +32,7 @@ public class Invoice {
 		// .....
 	}
 }
+```
 </pre>
 </p>
 <br/>
