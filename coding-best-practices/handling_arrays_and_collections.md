@@ -32,4 +32,5 @@ If these two conditions are not satisfied the result is null. This approach is n
 * Null makes it hard to distinguish between not having a department at all or having one with no employee's yet in it
 * A client for this service must check a null condition or else might build something that is not robust.
 
-Since collections and arrays are most often used iteratively it is better to return an empty instance of an array or collection
+Since collections and arrays are most often used iteratively it is better to return an empty instance of an array or collection<br/>
+Java 8 introduces Optional<T> which provides an elegant way of avoiding the null types issues and there is really no if's about it. Learn more about it on <a href='https://github.com/alainlompo/java-8-focus-labs/tree/master/java8-labs-home/java8-lambdas/src/main/java/org/lompo/labs/java8/lambdas/optional'>github's java 8 focus lab</a>
