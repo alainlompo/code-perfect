@@ -25,9 +25,10 @@ Besides the functional aspects, the user interfaces also look great as you can s
 <b><u>Figure 2. Visually monitoring the Netbeans instance and its running application</u></b><br/>
 <img src="https://github.com/alainlompo/code-perfect/blob/master/monitoring/resources/visualvm/visual_vm_002.png" alt="Visual VM IHM" />
 <br/><br/>
+<b><u>Figure 3. An overview of the threads that were created by the netbeans ide process categorized by their states</u></b><br/>
 <img src="https://github.com/alainlompo/code-perfect/blob/master/monitoring/resources/visualvm/visual_vm_003.png" alt="Visual VM IHM" />
 <br/><br/>
-<b><u>Figure 3. An overview of the threads that were created by the netbeans ide process categorized by their states</u></b><br/>
+<b><u>Figure 4. A user interface for managing available plugins that extends the features of visualvm</u></b><br/>
 <img src="https://github.com/alainlompo/code-perfect/blob/master/monitoring/resources/visualvm/visual_vm_004.png" alt="Visual VM IHM" /><br/>
 
 </p>
