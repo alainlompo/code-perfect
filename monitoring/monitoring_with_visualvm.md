@@ -8,7 +8,7 @@ VisualVml integrates many of the JDk command line tools such as JConsole, jmap o
    <li> Browse and operate on MBeans</li>
    <li> Generate and analyze heap datas</li>
 </ul>
-<br/>
+
 and many more.<br/>
 to learn more about VisualVM, please refere to one of the following:<br/>
 <ul>
