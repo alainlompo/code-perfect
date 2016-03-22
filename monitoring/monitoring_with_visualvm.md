@@ -16,10 +16,13 @@ to learn more about VisualVM, please refere to one of the following:<br/>
 <li> Oracle visual VM's documentation on Oracle web site: <a href="http://docs.oracle.com/javase/6/docs/technotes/guides/visualvm/">Here</a></li>
 
 
-Besides the functional aspects, the user interfaces also look great as you can see for yourself below
+Besides the functional aspects, the user interfaces also look great as you can see for yourself below (the images were captured from a session of monitoring Netbeans 8.0.2 executing a SPA web app)
 <br/>
+<br/>
+<b><u>Figure 1. An overview of Netbeans parameters along with environment properties</u></b><br/>
 <img src="https://github.com/alainlompo/code-perfect/blob/master/monitoring/resources/visualvm/visual_vm_001.png" alt="Visual VM IHM" />
 <br/><br/>
+
 <img src="https://github.com/alainlompo/code-perfect/blob/master/monitoring/resources/visualvm/visual_vm_002.png" alt="Visual VM IHM" />
 <br/><br/>
 <img src="https://github.com/alainlompo/code-perfect/blob/master/monitoring/resources/visualvm/visual_vm_003.png" alt="Visual VM IHM" />
