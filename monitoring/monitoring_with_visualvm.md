@@ -27,6 +27,7 @@ Besides the functional aspects, the user interfaces also look great as you can s
 <br/><br/>
 <img src="https://github.com/alainlompo/code-perfect/blob/master/monitoring/resources/visualvm/visual_vm_003.png" alt="Visual VM IHM" />
 <br/><br/>
+<b><u>Figure 3. An overview of the threads that were created by the netbeans ide process categorized by their states</u></b><br/>
 <img src="https://github.com/alainlompo/code-perfect/blob/master/monitoring/resources/visualvm/visual_vm_004.png" alt="Visual VM IHM" /><br/>
 
 </p>
