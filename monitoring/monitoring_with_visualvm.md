@@ -14,7 +14,7 @@ to learn more about VisualVM, please refere to one of the following:<br/>
 <ul>
 <li> The Visual VM page on <a href="https://visualvm.java.net/">Project Kenai</a></li>
 <li> Oracle visual VM's documentation on Oracle web site: <a href="http://docs.oracle.com/javase/6/docs/technotes/guides/visualvm/">Here</a></li>
-
+</ul>
 
 Besides the functional aspects, the user interfaces also look great as you can see for yourself below (the images were captured from a session of monitoring Netbeans 8.0.2 executing a SPA web app)
 <br/>
