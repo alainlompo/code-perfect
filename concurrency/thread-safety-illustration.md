@@ -8,8 +8,6 @@
 </p>
 <pre>
 	public class ThreadSafeCountingServlet implements Servlet {
-</pre>
-<pre>
 		private final AtomicLong counter = new AtomicLong(0);
 		// Avoid the thread-unsafe following approach
 		// private long counter = 0;
