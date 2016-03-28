@@ -16,8 +16,7 @@
 		
 		public void service(ServletRequest request, ServletResponse response) {
 			String aParamFromRequest = getAParamFromRequest(request);
-
-	 </pre><b>counter.incrementAndGet();</b>
+</pre>	 <b>counter.incrementAndGet();</b>
 <pre>
 			// Avoid something like counter++;
 			// More processing and preparation of response
