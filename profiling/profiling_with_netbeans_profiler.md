@@ -19,14 +19,14 @@ The viewing options are threefold:
 The names of these categories speak largely by themselves, so I don't see the need to comment more than showing it with pictures   
 <br/>
 
-<u>Figure a. vm's heap memory telemetry</u>   
+<b><u>Figure a. vm's heap memory telemetry</u></b>   
 <img src="resources/netbeans_integrated_profiler_sample_001.jpg" />   
 <br/>
 
-<u>Figure b. vm's thread telemetry</u>   
+<b><u>Figure b. vm's thread telemetry</u></b>   
 <img src="resources/netbeans_integrated_profiler_sample_003_vm_thread_telemetry.jpg" />   
 <br/>
 
-<u>Figure c. vm's lock contention's telemetry</u>   
+<b><u>Figure c. vm's lock contention's telemetry</u></b>   
 <img src="resources/netbeans_integrated_profiler_sample_003_lock_contention.jpg" />   
 <br/>
